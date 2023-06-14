@@ -17,6 +17,7 @@ Starting from a complete expression, we can work with each of its terms. Also va
 # Example
 ```java
 CronExpression cronExp = new CronExpression('0 0 12 * * ?');
+
 System.debug('Seconds: ', cronExp.getSeconds());
 System.debug('Minutes: ', cronExp.getMinutes());
 System.debug('Hours: ', cronExp.getHours());
