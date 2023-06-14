@@ -4,6 +4,7 @@ An easy way to work with Cron expressions. You can get and set each one of the t
 Starting from a complete expression, we can work with each of its terms. Also validates that our expression has the correct format.
 
 [View the story on Medium (Inglés)](https://medium.com/@sfdcjedi/working-easily-with-cron-expressions-in-salesforce-ed44340cf52c)
+
 [Ver el artículo en Medium (Español)](https://medium.com/@sfdcjedi/trabajar-f%C3%A1cilmente-con-expresiones-cron-en-salesforce-2ed864958117)
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=Salesforce Jedi&repo=https://github.com/sfdcjedi/sfdc-cron-expressions&ref=main">
